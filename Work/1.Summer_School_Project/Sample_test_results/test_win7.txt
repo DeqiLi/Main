@@ -1,0 +1,300 @@
+starting from stage, i: 20, 256084#
+setinitialorder used time: 16s
+
+nodeOrdering (contracting) starting with intial order: -4750
+nodeOrdering (contracting) used time: 3s
+
+ending at stage, i: 20, 257116#
+
+
+starting from stage, i: 21, 257117#
+setinitialorder used time: 15s
+
+nodeOrdering (contracting) starting with intial order: -2660
+nodeOrdering (contracting) used time: 3s
+
+ending at stage, i: 21, 258149#
+
+
+starting from stage, i: 22, 258150#
+setinitialorder used time: 15s
+
+nodeOrdering (contracting) starting with intial order: -3230
+nodeOrdering (contracting) used time: 4s
+
+ending at stage, i: 22, 259181#
+
+
+starting from stage, i: 23, 259182#
+setinitialorder used time: 14s
+
+nodeOrdering (contracting) starting with intial order: -2850
+nodeOrdering (contracting) used time: 5s
+
+ending at stage, i: 23, 260214#
+
+
+starting from stage, i: 24, 260215#
+setinitialorder used time: 13s
+
+nodeOrdering (contracting) starting with intial order: -4370
+nodeOrdering (contracting) used time: 7s
+
+ending at stage, i: 24, 261247#
+
+
+starting from stage, i: 25, 261248#
+setinitialorder used time: 14s
+
+nodeOrdering (contracting) starting with intial order: -5510
+nodeOrdering (contracting) used time: 5s
+
+ending at stage, i: 25, 262279#
+
+
+starting from stage, i: 26, 262280#
+setinitialorder used time: 10s
+
+nodeOrdering (contracting) starting with intial order: -3990
+nodeOrdering (contracting) used time: 4s
+
+ending at stage, i: 26, 263312#
+
+
+starting from stage, i: 27, 263313#
+setinitialorder used time: 7s
+
+nodeOrdering (contracting) starting with intial order: -3990
+nodeOrdering (contracting) used time: 6s
+
+ending at stage, i: 27, 264344#
+
+
+starting from stage, i: 28, 264345#
+setinitialorder used time: 0s
+
+nodeOrdering (contracting) starting with intial order: -190
+nodeOrdering used time: 0s
+
+Totally added shortcuts: 878424
+preprocessing finished. time used: 528s
+
+begin write preprocessed data into file 'USA-road-d.NY.gr.preprocessed'...
+
+writing preprocessed data finished. time used: 5s
+
+
+Bheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    222596    124031     278881    278881   1164   1164
+ 2000#    162449    160923     127254    127254    908    908
+ 3000#    224571    176774     697418    697418   1996   1996
+ 4000#     81051    238848    1211468   1211468   1404   1404
+ 5000#    197758    257267     354784    354784   1532   1532
+ 6000#     62803     12285     596651    596651   1611   1611
+ 7000#     72802     50181     469319    469319   1816   1816
+ 8000#     52120    174821     476585    476585   1672   1672
+ 9000#     48385     44370      52347     52347    446    446
+10000#     96308    132229     315180    315180   1697   1697
+
+------------------------------------------------------------
+--------------- Bheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      119s (10000 pairs)
+ Average query time per path:  5.95ms
+ Average visited nodes:        1508
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    222596    124031     278881    278881   1164   1164
+ 2000#    162449    160923     127254    127254    908    908
+ 3000#    224571    176774     697418    697418   1996   1996
+ 4000#     81051    238848    1211468   1211468   1404   1404
+ 5000#    197758    257267     354784    354784   1532   1532
+ 6000#     62803     12285     596651    596651   1611   1611
+ 7000#     72802     50181     469319    469319   1816   1816
+ 8000#     52120    174821     476585    476585   1672   1672
+ 9000#     48385     44370      52347     52347    446    446
+10000#     96308    132229     315180    315180   1697   1697
+
+------------------------------------------------------------
+--------------- Fheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      185s (10000 pairs)
+ Average query time per path:  9.25ms
+ Average visited nodes:        1508
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    222596    124031     278881    278881   1164   1164
+ 2000#    162449    160923     127254    127254    908    908
+ 3000#    224571    176774     697418    697418   1996   1996
+ 4000#     81051    238848    1211468   1211468   1404   1404
+ 5000#    197758    257267     354784    354784   1532   1532
+ 6000#     62803     12285     596651    596651   1611   1611
+ 7000#     72802     50181     469319    469319   1816   1816
+ 8000#     52120    174821     476585    476585   1672   1672
+ 9000#     48385     44370      52347     52347    446    446
+10000#     96308    132229     315180    315180   1697   1697
+
+------------------------------------------------------------
+--------------- Trivial-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      120s (10000 pairs)
+ Average query time per path:  6ms
+ Average visited nodes:        1508
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  165590  227424
+   20#     53834     69629     269123    269123  87507  59808
+   30#    249369     63897     816707    816707  246356  192431
+   40#    238178    137347     534613    534613  52115  204224
+   50#    264237     53735     427899    427899  121773  180423
+
+------------------------------------------------------------
+--------------- Bheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      11s (50 pairs)
+ Average query time per path:  110ms
+ Average visited nodes:        130168
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  119603  119600
+   20#     53834     69629     269123    269123  33435  33435
+   30#    249369     63897     816707    816707  160507  160507
+   40#    238178    137347     534613    534613  46621  46624
+   50#    264237     53735     427899    427899  71902  71902
+
+------------------------------------------------------------
+--------------- Bheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      9s (50 pairs)
+ Average query time per path:  90ms
+ Average visited nodes:        79468
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  165590  227424
+   20#     53834     69629     269123    269123  87507  59808
+   30#    249369     63897     816707    816707  246356  192431
+   40#    238178    137347     534613    534613  52115  204224
+   50#    264237     53735     427899    427899  121773  180423
+
+------------------------------------------------------------
+--------------- Fheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      40s (50 pairs)
+ Average query time per path:  400ms
+ Average visited nodes:        130168
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  119603  119600
+   20#     53834     69629     269123    269123  33435  33435
+   30#    249369     63897     816707    816707  160507  160507
+   40#    238178    137347     534613    534613  46621  46624
+   50#    264237     53735     427899    427899  71902  71902
+
+------------------------------------------------------------
+--------------- Fheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      24s (50 pairs)
+ Average query time per path:  240ms
+ Average visited nodes:        79468
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  165590  227423
+   20#     53834     69629     269123    269123  87507  59808
+   30#    249369     63897     816707    816707  246356  192431
+   40#    238178    137347     534613    534613  52115  204224
+   50#    264237     53735     427899    427899  121773  180423
+
+------------------------------------------------------------
+--------------- Trivial-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      36s (50 pairs)
+ Average query time per path:  360ms
+ Average visited nodes:        130168
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    258365     49036     577572    577572  119603  119600
+   20#     53834     69629     269123    269123  33435  33435
+   30#    249369     63897     816707    816707  160507  160499
+   40#    238178    137347     534613    534613  46621  46624
+   50#    264237     53735     427899    427899  71902  71902
+
+------------------------------------------------------------
+--------------- Trivial-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      29s (50 pairs)
+ Average query time per path:  290ms
+ Average visited nodes:        79468
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+C:\Coding\CH\debug>CH

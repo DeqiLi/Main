@@ -1,0 +1,873 @@
+Begin read data from 'USA-road-d.NY.gr'...
+There is 264346 node in data file. 
+......
+file reading finished. 
+nodes=264346, edges=733846, read in 3.286 seconds
+Totally there are 264346 nodes.
+
+preprocessing...
+Node ordering with 1/4 exponentially decreasing size...
+
+Starting stage 1 (out of 29)
+ Set initial orders from node 1 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 6.463s
+ Node ordering (node contracting) starting with intial order: -760
+ Node ordering (node contracting) used time: 0.407s
+ Max #Shortcuts: 23, Max #Edges: 8
+Ending stage 1
+
+Time passed: 6.871s
+
+Starting stage 2 (out of 29)
+ Set initial orders from node 33043 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.634s
+ Node ordering (node contracting) starting with intial order: -950
+ Node ordering (node contracting) used time: 0.64s
+ Max #Shortcuts: 23, Max #Edges: 8
+Ending stage 2
+
+Time passed: 13.145s
+
+Starting stage 3 (out of 29)
+ Set initial orders from node 66086 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.891s
+ Node ordering (node contracting) starting with intial order: -950
+ Node ordering (node contracting) used time: 0.895s
+ Max #Shortcuts: 23, Max #Edges: 9
+Ending stage 3
+
+Time passed: 19.931s
+
+Starting stage 4 (out of 29)
+ Set initial orders from node 99129 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.935s
+ Node ordering (node contracting) starting with intial order: -1330
+ Node ordering (node contracting) used time: 0.957s
+ Max #Shortcuts: 25, Max #Edges: 10
+Ending stage 4
+
+Time passed: 26.826s
+
+Starting stage 5 (out of 29)
+ Set initial orders from node 132173 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.595s
+ Node ordering (node contracting) starting with intial order: -1140
+ Node ordering (node contracting) used time: 0.469s
+ Max #Shortcuts: 30, Max #Edges: 13
+Ending stage 5
+
+Time passed: 31.891s
+
+Starting stage 6 (out of 29)
+ Set initial orders from node 148694 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.144s
+ Node ordering (node contracting) starting with intial order: -1330
+ Node ordering (node contracting) used time: 0.514s
+ Max #Shortcuts: 30, Max #Edges: 14
+Ending stage 6
+
+Time passed: 36.551s
+
+Starting stage 7 (out of 29)
+ Set initial orders from node 165216 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.369s
+ Node ordering (node contracting) starting with intial order: -1520
+ Node ordering (node contracting) used time: 0.643s
+ Max #Shortcuts: 30, Max #Edges: 14
+Ending stage 7
+
+Time passed: 41.564s
+
+Starting stage 8 (out of 29)
+ Set initial orders from node 181737 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.922s
+ Node ordering (node contracting) starting with intial order: -1330
+ Node ordering (node contracting) used time: 0.791s
+ Max #Shortcuts: 36, Max #Edges: 15
+Ending stage 8
+
+Time passed: 46.277s
+
+Starting stage 9 (out of 29)
+ Set initial orders from node 198259 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.813s
+ Node ordering (node contracting) starting with intial order: -1330
+ Node ordering (node contracting) used time: 0.591s
+ Max #Shortcuts: 42, Max #Edges: 17
+Ending stage 9
+
+Time passed: 52.682s
+
+Starting stage 10 (out of 29)
+ Set initial orders from node 206519 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.811s
+ Node ordering (node contracting) starting with intial order: -1710
+ Node ordering (node contracting) used time: 0.571s
+ Max #Shortcuts: 49, Max #Edges: 18
+Ending stage 10
+
+Time passed: 57.064s
+
+Starting stage 11 (out of 29)
+ Set initial orders from node 214780 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.906s
+ Node ordering (node contracting) starting with intial order: -2280
+ Node ordering (node contracting) used time: 0.669s
+ Max #Shortcuts: 49, Max #Edges: 20
+Ending stage 11
+
+Time passed: 61.639s
+
+Starting stage 12 (out of 29)
+ Set initial orders from node 223041 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.846s
+ Node ordering (node contracting) starting with intial order: -1900
+ Node ordering (node contracting) used time: 0.799s
+ Max #Shortcuts: 70, Max #Edges: 20
+Ending stage 12
+
+Time passed: 66.286s
+
+Starting stage 13 (out of 29)
+ Set initial orders from node 231302 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.987s
+ Node ordering (node contracting) starting with intial order: -1900
+ Node ordering (node contracting) used time: 0.648s
+ Max #Shortcuts: 70, Max #Edges: 20
+Ending stage 13
+
+Time passed: 70.921s
+
+Starting stage 14 (out of 29)
+ Set initial orders from node 235432 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.944s
+ Node ordering (node contracting) starting with intial order: -1710
+ Node ordering (node contracting) used time: 0.737s
+ Max #Shortcuts: 70, Max #Edges: 20
+Ending stage 14
+
+Time passed: 75.604s
+
+Starting stage 15 (out of 29)
+ Set initial orders from node 239562 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.232s
+ Node ordering (node contracting) starting with intial order: -1520
+ Node ordering (node contracting) used time: 0.978s
+ Max #Shortcuts: 131, Max #Edges: 25
+Ending stage 15
+
+Time passed: 80.814s
+
+Starting stage 16 (out of 29)
+ Set initial orders from node 243693 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.536s
+ Node ordering (node contracting) starting with intial order: -3610
+ Node ordering (node contracting) used time: 1.141s
+ Max #Shortcuts: 223, Max #Edges: 33
+Ending stage 16
+
+Time passed: 86.491s
+
+Starting stage 17 (out of 29)
+ Set initial orders from node 247823 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.477s
+ Node ordering (node contracting) starting with intial order: -2280
+ Node ordering (node contracting) used time: 0.912s
+ Max #Shortcuts: 266, Max #Edges: 35
+Ending stage 17
+
+Time passed: 91.88s
+
+Starting stage 18 (out of 29)
+ Set initial orders from node 249889 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.347s
+ Node ordering (node contracting) starting with intial order: -1710
+ Node ordering (node contracting) used time: 0.914s
+ Max #Shortcuts: 266, Max #Edges: 35
+Ending stage 18
+
+Time passed: 97.141s
+
+Starting stage 19 (out of 29)
+ Set initial orders from node 251954 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.603s
+ Node ordering (node contracting) starting with intial order: -3040
+ Node ordering (node contracting) used time: 1.143s
+ Max #Shortcuts: 266, Max #Edges: 35
+Ending stage 19
+
+Time passed: 102.887s
+
+Starting stage 20 (out of 29)
+ Set initial orders from node 254019 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.994s
+ Node ordering (node contracting) starting with intial order: -3610
+ Node ordering (node contracting) used time: 1.424s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 20
+
+Time passed: 109.306s
+
+Starting stage 21 (out of 29)
+ Set initial orders from node 256084 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.082s
+ Node ordering (node contracting) starting with intial order: -3800
+ Node ordering (node contracting) used time: 1.011s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 21
+
+Time passed: 115.399s
+
+Starting stage 22 (out of 29)
+ Set initial orders from node 257117 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.31s
+ Node ordering (node contracting) starting with intial order: -2660
+ Node ordering (node contracting) used time: 0.977s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 22
+
+Time passed: 121.686s
+
+Starting stage 23 (out of 29)
+ Set initial orders from node 258150 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.68s
+ Node ordering (node contracting) starting with intial order: -3040
+ Node ordering (node contracting) used time: 1.464s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 23
+
+Time passed: 128.831s
+
+Starting stage 24 (out of 29)
+ Set initial orders from node 259182 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 5.054s
+ Node ordering (node contracting) starting with intial order: -2470
+ Node ordering (node contracting) used time: 1.405s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 24
+
+Time passed: 135.291s
+
+Starting stage 25 (out of 29)
+ Set initial orders from node 260215 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.442s
+ Node ordering (node contracting) starting with intial order: -3420
+ Node ordering (node contracting) used time: 1.229s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 25
+
+Time passed: 140.963s
+
+Starting stage 26 (out of 29)
+ Set initial orders from node 261248 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 4.013s
+ Node ordering (node contracting) starting with intial order: -3040
+ Node ordering (node contracting) used time: 1.738s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 26
+
+Time passed: 146.714s
+
+Starting stage 27 (out of 29)
+ Set initial orders from node 262280 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 3.741s
+ Node ordering (node contracting) starting with intial order: -3420
+ Node ordering (node contracting) used time: 1.746s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 27
+
+Time passed: 152.201s
+
+Starting stage 28 (out of 29)
+ Set initial orders from node 263313 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 2.332s
+ Node ordering (node contracting) starting with intial order: -3990
+ Node ordering (node contracting) used time: 2.599s
+ Max #Shortcuts: 522, Max #Edges: 49
+Ending stage 28
+
+Time passed: 157.132s
+
+Starting stage 29 (out of 29)
+ Set initial orders from node 264345 to 264346:
+  Shuffle...
+  Set orders...
+  Sort...
+ Set initial orders in time: 0.0s
+ Node ordering (node contracting) starting with intial order: -190
+nodeOrdering used time: 0.0s
+
+Totally added shortcuts: 873782
+preprocessing finished. time used: 157.185s
+
+begin write preprocessed data into file 'USA-road-d.NY.gr.preprocJava'...
+
+writing preprocessed data finished. time used: 1.208s
+
+
+Bheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+1000#  207294  119575   616958  616958  1660  1660
+2000#  144446  39493   272908  272908  626  626
+3000#  177288  214955   302158  302158  1708  1708
+4000#  243917  111316   511350  511350  1050  1050
+5000#  201871  7965   484696  484696  1572  1572
+6000#  247304  147763   605286  605286  2685  2685
+7000#  131242  12024   342245  342245  1573  1573
+8000#  245692  25372   425933  425933  1157  1157
+9000#  139495  183474   301464  301464  1400  1400
+10000#  127692  184563   548586  548586  1711  1711
+
+------------------------------------------------------------
+--------------- Bheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      109.225s (10000 pairs)
+ Average query time per path:  5ms
+ Average visited nodes:        1394
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+1000#  207294  119575   616958  616958  1660  1660
+2000#  144446  39493   272908  272908  626  626
+3000#  177288  214955   302158  302158  1708  1708
+4000#  243917  111316   511350  511350  1050  1050
+5000#  201871  7965   484696  484696  1572  1572
+6000#  247304  147763   605286  605286  2685  2685
+7000#  131242  12024   342245  342245  1573  1573
+8000#  245692  25372   425933  425933  1157  1157
+9000#  139495  183474   301464  301464  1400  1400
+10000#  127692  184563   548586  548586  1711  1711
+
+------------------------------------------------------------
+--------------- Fheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      87.237s (10000 pairs)
+ Average query time per path:  4ms
+ Average visited nodes:        1394
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+1000#  207294  119575   616958  616958  1660  1660
+2000#  144446  39493   272908  272908  626  626
+3000#  177288  214955   302158  302158  1708  1708
+4000#  243917  111316   511350  511350  1050  1050
+5000#  201871  7965   484696  484696  1572  1572
+6000#  247304  147763   605286  605286  2685  2685
+7000#  131242  12024   342245  342245  1573  1573
+8000#  245692  25372   425933  425933  1157  1157
+9000#  139495  183474   301464  301464  1400  1400
+10000#  127692  184563   548586  548586  1711  1711
+
+------------------------------------------------------------
+--------------- Trivial-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      67.989s (10000 pairs)
+ Average query time per path:  3ms
+ Average visited nodes:        1394
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  179046  195298
+20#  259504  169913   653958  653958  152191  184535
+30#  45257  51714   275270  275270  68338  101226
+40#  134420  226126   460152  460152  190894  80157
+50#  46138  189455   275440  275440  77748  98599
+60#  12744  244164   276782  276782  54046  36674
+70#  229547  224143   709270  709270  190802  243854
+80#  72955  106390   642149  642149  185333  182328
+90#  120741  104068   310704  310704  75658  98082
+100#  30357  219784   614257  614257  184695  211029
+110#  143141  14745   451607  451607  166626  148422
+120#  28093  111006   186698  186698  43005  37229
+130#  231734  125839   660398  660398  200070  212434
+140#  92500  16228   324007  324007  49700  83237
+150#  89179  33   1042689  1042689  244939  248960
+160#  177393  234333   773619  773619  188835  222999
+170#  63170  107257   595063  595063  134990  187007
+180#  189347  100346   408697  408697  171494  106850
+190#  8500  193196   443138  443138  131998  35272
+200#  91605  258842   1220129  1220129  260523  251144
+210#  91236  179956   979996  979996  227909  249338
+220#  125343  58125   195869  195869  39448  33247
+230#  50424  81920   684535  684535  230117  90009
+240#  204617  247390   486625  486625  167351  126065
+250#  205198  90238   725310  725310  247970  134420
+260#  28757  109133   242591  242591  73354  56453
+270#  145786  229473   621554  621554  232309  156563
+280#  46782  2122   733597  733597  252288  181755
+290#  198476  103767   226998  226998  64621  60248
+300#  249368  78539   875207  875207  253894  195035
+310#  239818  14851   311280  311280  57977  72613
+320#  54808  246919   408512  408512  171656  117075
+330#  120285  129523   97426  97426  10747  11711
+340#  126132  215080   408977  408977  126183  158127
+350#  2001  143649   586147  586147  117948  232530
+360#  237969  3273   442035  442035  40494  40394
+370#  175021  179412   208571  208571  24809  47248
+380#  99404  78153   516596  516596  139253  92369
+390#  41035  43218   160916  160916  30762  24526
+400#  80415  72192   263889  263889  21275  56616
+410#  191024  259506   588060  588060  105422  121736
+420#  262294  185026   471894  471894  121490  113806
+430#  134401  230989   390165  390165  157656  76078
+440#  13142  263911   412660  412660  148429  59087
+450#  250601  145571   343570  343570  98221  118634
+460#  103742  219265   409896  409896  159280  110650
+470#  50012  259934   609703  609703  198632  182215
+480#  39738  186516   211850  211850  52222  58644
+490#  247991  186816   367875  367875  83479  149814
+500#  253526  102439   459712  459712  172635  134581
+
+------------------------------------------------------------
+--------------- Bheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      119.303s (500 pairs)
+ Average query time per path:  119ms
+ Average visited nodes:        132995
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  135558  135563
+20#  259504  169913   653958  653958  108197  108197
+30#  45257  51714   275270  275270  43530  43530
+40#  134420  226126   460152  460152  51987  51987
+50#  46138  189455   275440  275440  48922  48921
+60#  12744  244164   276782  276782  22354  22349
+70#  229547  224143   709270  709270  146432  146432
+80#  72955  106390   642149  642149  127925  127925
+90#  120741  104068   310704  310704  55308  55308
+100#  30357  219784   614257  614257  127656  127654
+110#  143141  14745   451607  451607  96080  96080
+120#  28093  111006   186698  186698  20336  20336
+130#  231734  125839   660398  660398  147526  147526
+140#  92500  16228   324007  324007  32223  32223
+150#  89179  33   1042689  1042689  182772  182772
+160#  177393  234333   773619  773619  125711  125712
+170#  63170  107257   595063  595063  108586  108586
+180#  189347  100346   408697  408697  80631  80632
+190#  8500  193196   443138  443138  27097  27099
+200#  91605  258842   1220129  1220129  186475  186475
+210#  91236  179956   979996  979996  154755  154752
+220#  125343  58125   195869  195869  19950  19951
+230#  50424  81920   684535  684535  85628  85629
+240#  204617  247390   486625  486625  94980  94980
+250#  205198  90238   725310  725310  134406  134412
+260#  28757  109133   242591  242591  33642  33643
+270#  145786  229473   621554  621554  129660  129660
+280#  46782  2122   733597  733597  130680  130680
+290#  198476  103767   226998  226998  36074  36074
+300#  249368  78539   875207  875207  160491  160491
+310#  239818  14851   311280  311280  36681  36681
+320#  54808  246919   408512  408512  68449  68449
+330#  120285  129523   97426  97426  5948  5948
+340#  126132  215080   408977  408977  98098  98093
+350#  2001  143649   586147  586147  81498  81500
+360#  237969  3273   442035  442035  18842  18842
+370#  175021  179412   208571  208571  14698  14698
+380#  99404  78153   516596  516596  73960  73960
+390#  41035  43218   160916  160916  12830  12831
+400#  80415  72192   263889  263889  17391  17393
+410#  191024  259506   588060  588060  57390  57390
+420#  262294  185026   471894  471894  86778  86778
+430#  134401  230989   390165  390165  50730  50730
+440#  13142  263911   412660  412660  55052  55054
+450#  250601  145571   343570  343570  59448  59447
+460#  103742  219265   409896  409896  74297  74297
+470#  50012  259934   609703  609703  111398  111398
+480#  39738  186516   211850  211850  31589  31589
+490#  247991  186816   367875  367875  60233  60233
+500#  253526  102439   459712  459712  86547  86545
+
+------------------------------------------------------------
+--------------- Bheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      108.73s (500 pairs)
+ Average query time per path:  108ms
+ Average visited nodes:        83182
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  179046  195298
+20#  259504  169913   653958  653958  152191  184535
+30#  45257  51714   275270  275270  68338  101226
+40#  134420  226126   460152  460152  190894  80153
+50#  46138  189455   275440  275440  77748  98599
+60#  12744  244164   276782  276782  54046  36674
+70#  229547  224143   709270  709270  190802  243854
+80#  72955  106390   642149  642149  185333  182328
+90#  120741  104068   310704  310704  75658  98082
+100#  30357  219784   614257  614257  184695  211029
+110#  143141  14745   451607  451607  166626  148422
+120#  28093  111006   186698  186698  43005  37229
+130#  231734  125839   660398  660398  200070  212434
+140#  92500  16228   324007  324007  49700  83237
+150#  89179  33   1042689  1042689  244939  248960
+160#  177393  234333   773619  773619  188835  222999
+170#  63170  107257   595063  595063  134990  187007
+180#  189347  100346   408697  408697  171494  106851
+190#  8500  193196   443138  443138  131986  35272
+200#  91605  258842   1220129  1220129  260523  251144
+210#  91236  179956   979996  979996  227909  249338
+220#  125343  58125   195869  195869  39448  33247
+230#  50424  81920   684535  684535  230117  90009
+240#  204617  247390   486625  486625  167351  126063
+250#  205198  90238   725310  725310  247970  134420
+260#  28757  109133   242591  242591  73355  56453
+270#  145786  229473   621554  621554  232309  156563
+280#  46782  2122   733597  733597  252288  181755
+290#  198476  103767   226998  226998  64610  60248
+300#  249368  78539   875207  875207  253894  195035
+310#  239818  14851   311280  311280  57977  72613
+320#  54808  246919   408512  408512  171656  117074
+330#  120285  129523   97426  97426  10747  11711
+340#  126132  215080   408977  408977  126183  158127
+350#  2001  143649   586147  586147  117948  232530
+360#  237969  3273   442035  442035  40494  40394
+370#  175021  179412   208571  208571  24809  47248
+380#  99404  78153   516596  516596  139253  92369
+390#  41035  43218   160916  160916  30762  24526
+400#  80415  72192   263889  263889  21275  56616
+410#  191024  259506   588060  588060  105422  121736
+420#  262294  185026   471894  471894  121490  113806
+430#  134401  230989   390165  390165  157655  76078
+440#  13142  263911   412660  412660  148429  59087
+450#  250601  145571   343570  343570  98221  118634
+460#  103742  219265   409896  409896  159280  110650
+470#  50012  259934   609703  609703  198632  182215
+480#  39738  186516   211850  211850  52222  58644
+490#  247991  186816   367875  367875  83479  149814
+500#  253526  102439   459712  459712  172635  134579
+
+------------------------------------------------------------
+--------------- Fheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      223.161s (500 pairs)
+ Average query time per path:  223ms
+ Average visited nodes:        132995
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  135558  135563
+20#  259504  169913   653958  653958  108197  108197
+30#  45257  51714   275270  275270  43530  43530
+40#  134420  226126   460152  460152  51987  51987
+50#  46138  189455   275440  275440  48922  48921
+60#  12744  244164   276782  276782  22354  22349
+70#  229547  224143   709270  709270  146432  146432
+80#  72955  106390   642149  642149  127925  127925
+90#  120741  104068   310704  310704  55308  55308
+100#  30357  219784   614257  614257  127656  127654
+110#  143141  14745   451607  451607  96080  96080
+120#  28093  111006   186698  186698  20336  20336
+130#  231734  125839   660398  660398  147526  147526
+140#  92500  16228   324007  324007  32223  32223
+150#  89179  33   1042689  1042689  182772  182772
+160#  177393  234333   773619  773619  125711  125712
+170#  63170  107257   595063  595063  108586  108586
+180#  189347  100346   408697  408697  80631  80632
+190#  8500  193196   443138  443138  27097  27099
+200#  91605  258842   1220129  1220129  186475  186475
+210#  91236  179956   979996  979996  154755  154752
+220#  125343  58125   195869  195869  19950  19951
+230#  50424  81920   684535  684535  85628  85629
+240#  204617  247390   486625  486625  94980  94980
+250#  205198  90238   725310  725310  134406  134412
+260#  28757  109133   242591  242591  33642  33643
+270#  145786  229473   621554  621554  129660  129660
+280#  46782  2122   733597  733597  130680  130680
+290#  198476  103767   226998  226998  36074  36074
+300#  249368  78539   875207  875207  160491  160492
+310#  239818  14851   311280  311280  36681  36681
+320#  54808  246919   408512  408512  68449  68449
+330#  120285  129523   97426  97426  5948  5948
+340#  126132  215080   408977  408977  98098  98093
+350#  2001  143649   586147  586147  81498  81500
+360#  237969  3273   442035  442035  18842  18842
+370#  175021  179412   208571  208571  14698  14698
+380#  99404  78153   516596  516596  73960  73960
+390#  41035  43218   160916  160916  12830  12831
+400#  80415  72192   263889  263889  17393  17393
+410#  191024  259506   588060  588060  57390  57390
+420#  262294  185026   471894  471894  86778  86778
+430#  134401  230989   390165  390165  50730  50730
+440#  13142  263911   412660  412660  55052  55054
+450#  250601  145571   343570  343570  59448  59447
+460#  103742  219265   409896  409896  74297  74297
+470#  50012  259934   609703  609703  111398  111398
+480#  39738  186516   211850  211850  31589  31589
+490#  247991  186816   367875  367875  60233  60233
+500#  253526  102439   459712  459712  86547  86545
+
+------------------------------------------------------------
+--------------- Fheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      134.655s (500 pairs)
+ Average query time per path:  134ms
+ Average visited nodes:        83182
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  179046  195298
+20#  259504  169913   653958  653958  152192  184534
+30#  45257  51714   275270  275270  68338  101226
+40#  134420  226126   460152  460152  190894  80157
+50#  46138  189455   275440  275440  77748  98598
+60#  12744  244164   276782  276782  54046  36674
+70#  229547  224143   709270  709270  190802  243854
+80#  72955  106390   642149  642149  185333  182328
+90#  120741  104068   310704  310704  75658  98082
+100#  30357  219784   614257  614257  184695  211028
+110#  143141  14745   451607  451607  166626  148422
+120#  28093  111006   186698  186698  43005  37229
+130#  231734  125839   660398  660398  200070  212434
+140#  92500  16228   324007  324007  49700  83237
+150#  89179  33   1042689  1042689  244939  248960
+160#  177393  234333   773619  773619  188835  222999
+170#  63170  107257   595063  595063  134990  187007
+180#  189347  100346   408697  408697  171494  106850
+190#  8500  193196   443138  443138  131998  35272
+200#  91605  258842   1220129  1220129  260523  251144
+210#  91236  179956   979996  979996  227909  249338
+220#  125343  58125   195869  195869  39448  33247
+230#  50424  81920   684535  684535  230117  90009
+240#  204617  247390   486625  486625  167351  126065
+250#  205198  90238   725310  725310  247970  134420
+260#  28757  109133   242591  242591  73355  56453
+270#  145786  229473   621554  621554  232309  156563
+280#  46782  2122   733597  733597  252288  181755
+290#  198476  103767   226998  226998  64610  60248
+300#  249368  78539   875207  875207  253894  195035
+310#  239818  14851   311280  311280  57977  72611
+320#  54808  246919   408512  408512  171656  117072
+330#  120285  129523   97426  97426  10747  11711
+340#  126132  215080   408977  408977  126183  158127
+350#  2001  143649   586147  586147  117948  232530
+360#  237969  3273   442035  442035  40494  40394
+370#  175021  179412   208571  208571  24809  47248
+380#  99404  78153   516596  516596  139253  92369
+390#  41035  43218   160916  160916  30762  24526
+400#  80415  72192   263889  263889  21275  56616
+410#  191024  259506   588060  588060  105422  121736
+420#  262294  185026   471894  471894  121490  113806
+430#  134401  230989   390165  390165  157656  76078
+440#  13142  263911   412660  412660  148429  59087
+450#  250601  145571   343570  343570  98223  118634
+460#  103742  219265   409896  409896  159280  110650
+470#  50012  259934   609703  609703  198632  182215
+480#  39738  186516   211850  211850  52222  58644
+490#  247991  186816   367875  367875  83479  149814
+500#  253526  102439   459712  459712  172635  134581
+
+------------------------------------------------------------
+--------------- Trivial-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      505.187s (500 pairs)
+ Average query time per path:  505ms
+ Average visited nodes:        132995
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+10#  170474  233199   648129  648129  135558  135563
+20#  259504  169913   653958  653958  108197  108197
+30#  45257  51714   275270  275270  43530  43530
+40#  134420  226126   460152  460152  51987  51987
+50#  46138  189455   275440  275440  48922  48921
+60#  12744  244164   276782  276782  22354  22349
+70#  229547  224143   709270  709270  146432  146432
+80#  72955  106390   642149  642149  127925  127925
+90#  120741  104068   310704  310704  55308  55308
+100#  30357  219784   614257  614257  127656  127654
+110#  143141  14745   451607  451607  96080  96080
+120#  28093  111006   186698  186698  20336  20336
+130#  231734  125839   660398  660398  147526  147527
+140#  92500  16228   324007  324007  32223  32223
+150#  89179  33   1042689  1042689  182772  182772
+160#  177393  234333   773619  773619  125711  125712
+170#  63170  107257   595063  595063  108586  108586
+180#  189347  100346   408697  408697  80631  80632
+190#  8500  193196   443138  443138  27097  27099
+200#  91605  258842   1220129  1220129  186475  186475
+210#  91236  179956   979996  979996  154755  154752
+220#  125343  58125   195869  195869  19950  19951
+230#  50424  81920   684535  684535  85628  85629
+240#  204617  247390   486625  486625  94980  94980
+250#  205198  90238   725310  725310  134406  134412
+260#  28757  109133   242591  242591  33642  33643
+270#  145786  229473   621554  621554  129660  129660
+280#  46782  2122   733597  733597  130680  130680
+290#  198476  103767   226998  226998  36074  36074
+300#  249368  78539   875207  875207  160491  160491
+310#  239818  14851   311280  311280  36681  36681
+320#  54808  246919   408512  408512  68449  68449
+330#  120285  129523   97426  97426  5948  5948
+340#  126132  215080   408977  408977  98098  98093
+350#  2001  143649   586147  586147  81498  81500
+360#  237969  3273   442035  442035  18842  18842
+370#  175021  179412   208571  208571  14698  14698
+380#  99404  78153   516596  516596  73960  73960
+390#  41035  43218   160916  160916  12830  12831
+400#  80415  72192   263889  263889  17393  17393
+410#  191024  259506   588060  588060  57390  57390
+420#  262294  185026   471894  471894  86778  86778
+430#  134401  230989   390165  390165  50730  50735
+440#  13142  263911   412660  412660  55052  55054
+450#  250601  145571   343570  343570  59448  59447
+460#  103742  219265   409896  409896  74297  74297
+470#  50012  259934   609703  609703  111398  111403
+480#  39738  186516   211850  211850  31589  31589
+490#  247991  186816   367875  367875  60233  60233
+500#  253526  102439   459712  459712  86547  86545
+
+------------------------------------------------------------
+--------------- Trivial-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      379.301s (500 pairs)
+ Average query time per path:  379ms
+ Average visited nodes:        83182
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+

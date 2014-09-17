@@ -1,0 +1,20 @@
+Note: 
+Please put "PickStrawberries_V1.0.exe" and "resources" under the same folder in Win7.
+
+Game Task: 
+Starting from an arbitary strawberry as home, you click and pick all strawberries one by one, and then come back home.
+
+You can double-click the current strawberry to go back the previous step.
+
+Your level would increase if you succeed, or stay unchanged if you fail.
+
+If you fail for this time, the game will automatically restart.
+
+You can restart the current game at any time by clicking the button "Restart".
+
+You can start a new game at any time by clicking the button "New Game".
+
+
+Constraints: 
+At each step, you can only pick the strawberries that are directly connected to the current strawberry. You cannot jump over a strawberry.
+

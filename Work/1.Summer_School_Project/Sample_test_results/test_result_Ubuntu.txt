@@ -1,0 +1,493 @@
+adamant@ubuntu:~/Coding/CH$ g++ -std=c++11 -O2 -o ch CH.cpp
+adamant@ubuntu:~/Coding/CH$ 
+adamant@ubuntu:~/Coding/CH$ 
+
+adamant@ubuntu:~/Coding/CH$ ./ch
+begin read data from 'USA-road-d.NY.gr'...
+......
+file reading finished. 
+nodes=264346, edges=733846, read in 0 second
+
+preprocessing... 
+nodeOrdering with 1/4 exponentially decreasing size...
+
+starting from stage, i: 0, 1#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -760
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 0, 33042#
+
+
+starting from stage, i: 1, 33043#
+setinitialorder used time: 3s
+
+nodeOrdering (contracting) starting with intial order: -950
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 1, 66085#
+
+
+starting from stage, i: 2, 66086#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -950
+nodeOrdering (contracting) used time: 0s
+
+ending at stage, i: 2, 99128#
+
+
+starting from stage, i: 3, 99129#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1140
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 3, 132172#
+
+
+starting from stage, i: 4, 132173#
+setinitialorder used time: 3s
+
+nodeOrdering (contracting) starting with intial order: -1330
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 4, 148693#
+
+
+starting from stage, i: 5, 148694#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1140
+nodeOrdering (contracting) used time: 0s
+
+ending at stage, i: 5, 165215#
+
+
+starting from stage, i: 6, 165216#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1330
+nodeOrdering (contracting) used time: 0s
+
+ending at stage, i: 6, 181736#
+
+
+starting from stage, i: 7, 181737#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1710
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 7, 198258#
+
+
+starting from stage, i: 8, 198259#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1520
+nodeOrdering (contracting) used time: 0s
+
+ending at stage, i: 8, 206518#
+
+
+starting from stage, i: 9, 206519#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1520
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 9, 214779#
+
+
+starting from stage, i: 10, 214780#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1520
+nodeOrdering (contracting) used time: 0s
+
+ending at stage, i: 10, 223040#
+
+
+starting from stage, i: 11, 223041#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -1710
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 11, 231301#
+
+
+starting from stage, i: 12, 231302#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -2280
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 12, 235431#
+
+
+starting from stage, i: 13, 235432#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -2280
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 13, 239561#
+
+
+starting from stage, i: 14, 239562#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -2090
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 14, 243692#
+
+
+starting from stage, i: 15, 243693#
+setinitialorder used time: 7s
+
+nodeOrdering (contracting) starting with intial order: -3420
+nodeOrdering (contracting) used time: 2s
+
+ending at stage, i: 15, 247822#
+
+
+starting from stage, i: 16, 247823#
+setinitialorder used time: 5s
+
+nodeOrdering (contracting) starting with intial order: -2280
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 16, 249888#
+
+
+starting from stage, i: 17, 249889#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -2850
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 17, 251953#
+
+
+starting from stage, i: 18, 251954#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -2660
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 18, 254018#
+
+
+starting from stage, i: 19, 254019#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -3420
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 19, 256083#
+
+
+starting from stage, i: 20, 256084#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -2470
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 20, 257116#
+
+
+starting from stage, i: 21, 257117#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -2660
+nodeOrdering (contracting) used time: 2s
+
+ending at stage, i: 21, 258149#
+
+
+starting from stage, i: 22, 258150#
+setinitialorder used time: 6s
+
+nodeOrdering (contracting) starting with intial order: -3040
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 22, 259181#
+
+
+starting from stage, i: 23, 259182#
+setinitialorder used time: 5s
+
+nodeOrdering (contracting) starting with intial order: -3990
+nodeOrdering (contracting) used time: 2s
+
+ending at stage, i: 23, 260214#
+
+
+starting from stage, i: 24, 260215#
+setinitialorder used time: 5s
+
+nodeOrdering (contracting) starting with intial order: -3610
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 24, 261247#
+
+
+starting from stage, i: 25, 261248#
+setinitialorder used time: 5s
+
+nodeOrdering (contracting) starting with intial order: -3610
+nodeOrdering (contracting) used time: 2s
+
+ending at stage, i: 25, 262279#
+
+
+starting from stage, i: 26, 262280#
+setinitialorder used time: 4s
+
+nodeOrdering (contracting) starting with intial order: -3420
+nodeOrdering (contracting) used time: 1s
+
+ending at stage, i: 26, 263312#
+
+
+starting from stage, i: 27, 263313#
+setinitialorder used time: 3s
+
+nodeOrdering (contracting) starting with intial order: -4560
+nodeOrdering (contracting) used time: 2s
+
+ending at stage, i: 27, 264344#
+
+
+starting from stage, i: 28, 264345#
+setinitialorder used time: 0s
+
+nodeOrdering (contracting) starting with intial order: -190
+nodeOrdering used time: 0s
+
+Totally added shortcuts: 876302
+preprocessing finished. time used: 156s
+
+begin write preprocessed data into file 'USA-road-d.NY.gr.preprocessed'...
+
+writing preprocessed data finished. time used: 1s
+
+
+Bheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    193713    149363     842561    842561   2646   2646
+ 2000#    229897    202161     521989    521989   2092   2092
+ 3000#    261623    154677     487967    487967   1195   1195
+ 4000#     76327     85312     145638    145638    257    257
+ 5000#     74209     52150     504584    504584   1276   1276
+ 6000#    263599    109277     561248    561248   1392   1392
+ 7000#    105150    172973     590932    590932   1823   1823
+ 8000#    163765     70481     578933    578933   1690   1690
+ 9000#    135709    144114     270493    270493   2067   2067
+10000#    262607    174052     712654    712654   1152   1152
+
+------------------------------------------------------------
+--------------- Bheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      93s (10000 pairs)
+ Average query time per path:  4.65ms
+ Average visited nodes:        1496
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    193713    149363     842561    842561   2646   2646
+ 2000#    229897    202161     521989    521989   2092   2092
+ 3000#    261623    154677     487967    487967   1195   1195
+ 4000#     76327     85312     145638    145638    257    257
+ 5000#     74209     52150     504584    504584   1276   1276
+ 6000#    263599    109277     561248    561248   1392   1392
+ 7000#    105150    172973     590932    590932   1823   1823
+ 8000#    163765     70481     578933    578933   1690   1690
+ 9000#    135709    144114     270493    270493   2067   2067
+10000#    262607    174052     712654    712654   1152   1152
+
+------------------------------------------------------------
+--------------- Fheap-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      103s (10000 pairs)
+ Average query time per path:  5.15ms
+ Average visited nodes:        1496
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-CHDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+ 1000#    193713    149363     842561    842561   2646   2646
+ 2000#    229897    202161     521989    521989   2092   2092
+ 3000#    261623    154677     487967    487967   1195   1195
+ 4000#     76327     85312     145638    145638    257    257
+ 5000#     74209     52150     504584    504584   1276   1276
+ 6000#    263599    109277     561248    561248   1392   1392
+ 7000#    105150    172973     590932    590932   1823   1823
+ 8000#    163765     70481     578933    578933   1690   1690
+ 9000#    135709    144114     270493    270493   2067   2067
+10000#    262607    174052     712654    712654   1152   1152
+
+------------------------------------------------------------
+--------------- Trivial-CHDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      87s (10000 pairs)
+ Average query time per path:  4.35ms
+ Average visited nodes:        1496
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  70103  135328
+   20#     97963    230977     584480    584480  160546  145453
+   30#      8764    172761     670267    670267  231724  158506
+   40#     98769      8218     404673    404673  88974  105202
+   50#    209833     24015     295166    295166  87648  96276
+
+------------------------------------------------------------
+--------------- Bheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      9s (50 pairs)
+ Average query time per path:  90ms
+ Average visited nodes:        137742
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Bheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  50820  50820
+   20#     97963    230977     584480    584480  79697  79697
+   30#      8764    172761     670267    670267  128720  128720
+   40#     98769      8218     404673    404673  56268  56268
+   50#    209833     24015     295166    295166  59232  59232
+
+------------------------------------------------------------
+--------------- Bheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      7s (50 pairs)
+ Average query time per path:  70ms
+ Average visited nodes:        92046
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  70103  135328
+   20#     97963    230977     584480    584480  160546  145453
+   30#      8764    172761     670267    670267  231723  158506
+   40#     98769      8218     404673    404673  88974  105202
+   50#    209833     24015     295166    295166  87648  96277
+
+------------------------------------------------------------
+--------------- Fheap-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      17s (50 pairs)
+ Average query time per path:  170ms
+ Average visited nodes:        137742
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Fheap-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  50820  50820
+   20#     97963    230977     584480    584480  79697  79697
+   30#      8764    172761     670267    670267  128720  128720
+   40#     98769      8218     404673    404673  56268  56268
+   50#    209833     24015     295166    295166  59232  59232
+
+------------------------------------------------------------
+--------------- Fheap-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      11s (50 pairs)
+ Average query time per path:  110ms
+ Average visited nodes:        92046
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  70103  135328
+   20#     97963    230977     584480    584480  160546  145453
+   30#      8764    172761     670267    670267  231723  158506
+   40#     98769      8218     404673    404673  88974  105202
+   50#    209833     24015     295166    295166  87648  96276
+
+------------------------------------------------------------
+--------------- Trivial-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      35s (50 pairs)
+ Average query time per path:  350ms
+ Average visited nodes:        137742
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+Trivial-bidi-classicalDJ PERFORMANCE TEST
+
+    #    source    target    distance1   distance2   nVisited1  nVisited2
+
+   10#    228605    105559     358584    358584  50820  50820
+   20#     97963    230977     584480    584480  79697  79697
+   30#      8764    172761     670267    670267  128720  128720
+   40#     98769      8218     404673    404673  56268  56268
+   50#    209833     24015     295166    295166  59232  59232
+
+------------------------------------------------------------
+--------------- Trivial-bidi-classicalDJ PERFORMANCE TEST --------------
+------------------------------------------------------------
+ Query time totally used:      33s (50 pairs)
+ Average query time per path:  330ms
+ Average visited nodes:        92046
+ srand(year):                  2012
+ Data file:                   'USA-road-d.NY.gr'
+ Nodes, Edges:                 264346, 733846
+------------------------------------------------------------
+
+
+adamant@ubuntu:~/Coding/CH$ 
