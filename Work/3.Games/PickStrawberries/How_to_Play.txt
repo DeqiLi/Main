@@ -1,3 +1,10 @@
+
+Background:
+This game is based on the Hamiltonian Cycle Problem, a very 
+old and famous NP-complete problem.This problem wants to find
+a cycle in a given graph such that each node appears once and
+just once on the cycle.
+
 Note: 
 Please put "PickStrawberries_V1.0.exe" and "resources" under the same folder in Win7.
 
