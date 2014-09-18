@@ -1,4 +1,4 @@
-Welcome to visit my documents and sample work!
+Welcome to look at my documents and sample work!
 
 Main
 ====
