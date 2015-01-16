@@ -1,20 +1,23 @@
 
 About the game
-The game "GoldThread" is a web game. Your task is to connect all pearls on the board using one single gold thread. When you succeed on one game,you can see a pearl necklace connected with a gold thread.
+The game "GoldThread" is a web game. Your task is to connect all pearls on the board using one single gold thread. 
+When you have succeeded on one game, you can see a necklace of pearls that are connected with a gold thread.
 
 It has been tested under Internet Explorer11.0, Google Chrome39.0 and Mozilla Firefox31.2.
 
 
 How to play
-This game involves 12 levels and on each level you must come through 3 games then you can upgrade to the higher level. 
-You just need 6 keys of the keyboard to play the game. 4 arrows move the thread forward if the current pearl is shown to connected to the next pearl you are moving to. "Esc" moves back on pearl until it gets to the first one. "Enter" starts a new game after you passing the current game, or just resets the current game.
+This game involves 5 levels and on each level you must come through 3 games then you can upgrade to the higher level. 
+You just need 6 keys of the keyboard to play the game. 4 arrows move the thread forward if the current pearl is shown
+to connected to the next pearl you are moving to. "Esc" moves back on pearl until it gets to the first one. "Enter" 
+starts a new game after you passing the current game, or just resets the current game.
 
 ===================== The following is the introduction in Chinese ==================
-ÖĞÎÄ½éÉÜ
-±¾ÓÎÏ·ÃûÎª¡°´©½ğÏß¡±£¬»ùÓÚWEB£¬¿ÉÒÔÔËĞĞÔÚIE,ChromeºÍFirefoxÉÏ¡£²âÊÔ°æÒ»¹²ÓĞ6¼¶£¬Ã¿¼¶ÓĞ3¹Ø£¬×Ü¹²18¹Ø¡£
+ä¸­æ–‡ä»‹ç»
+æœ¬æ¸¸æˆåä¸ºâ€œç©¿é‡‘çº¿â€ï¼ŒåŸºäºWEBï¼Œå¯ä»¥è¿è¡Œåœ¨IE,Chromeå’ŒFirefoxä¸Šã€‚æµ‹è¯•ç‰ˆä¸€å…±æœ‰6çº§ï¼Œæ¯çº§æœ‰3å…³ï¼Œæ€»å…±18å…³ã€‚
 
-Íæ·¨£º
-´ÓÓÎÏ·³õÊ¼Ëæ»úÑ¡¶¨µÄµÚÒ»¸öÖé×Ó(»ÆÉ«Öé×Ó)¿ªÊ¼£¬ÑØ×ÅÓĞÁ¬ÏßµÄ·½ÏòÇ°½ø£¬Ã¿´ÎÁ¬Ò»¸öÓĞÁ¬ÏßµÄÖé×Ó£¬×îºóÄÜ¹»»Øµ½³õÊ¼»ÆÉ«Öé×Ó£¬Ôò¹ı¹Ø¡£Äã»á¿´µ½ËùÓĞÖé×Ó¶¼±»Ò»¸ù½ğÏßÁ¬½ÓÁËÆğÀ´£¬¶øÔ­À´µÄÁ¬ÏßÏûÊ§£¬ÊÇÎªÁËÈÃ´©½ğÏßµÄĞ§¹û¸üÃ÷ÏÔ¡£
-Í¨¹ı¡û¡¢¡ü¡¢¡ı¡¢¡ú£¨ÉÏ¡¢ÏÂ¡¢×ó¡¢ÓÒ£©ËÄ¸ö¼ıÍ·¼üÑ¡ÔñÏÂÒ»¸öÒª´©µÄÖé×Ó£»¡°Esc¡±¼üÃ¿°´Ò»´Î»ØÍËÒ»¸öÖé×Ó£¬Ö±µ½»Øµ½³õÊ¼ÄÇ¸öÖé×Ó£»¶ø¡°Enter¼ü(»Ø³µ¼ü)¡±Ôò»ØÍËµ½³õÊ¼ÄÇ¸öÖé×Ó£¬ÖØĞÂ¿ªÊ¼£»Ò»¹Ø½áÊøºó£¬¿ªÊ¼ÏÂÒ»¹Ø£¬Ò²Òª°´»Ø³µ¼ü¡£
+ç©æ³•ï¼š
+ä»æ¸¸æˆåˆå§‹éšæœºé€‰å®šçš„ç¬¬ä¸€ä¸ªç å­(é»„è‰²ç å­)å¼€å§‹ï¼Œæ²¿ç€æœ‰è¿çº¿çš„æ–¹å‘å‰è¿›ï¼Œæ¯æ¬¡è¿ä¸€ä¸ªæœ‰è¿çº¿çš„ç å­ï¼Œæœ€åèƒ½å¤Ÿå›åˆ°åˆå§‹é»„è‰²ç å­ï¼Œåˆ™è¿‡å…³ã€‚ä½ ä¼šçœ‹åˆ°æ‰€æœ‰ç å­éƒ½è¢«ä¸€æ ¹é‡‘çº¿è¿æ¥äº†èµ·æ¥ï¼Œè€ŒåŸæ¥çš„è¿çº¿æ¶ˆå¤±ï¼Œæ˜¯ä¸ºäº†è®©ç©¿é‡‘çº¿çš„æ•ˆæœæ›´æ˜æ˜¾ã€‚
+é€šè¿‡â†ã€â†‘ã€â†“ã€â†’ï¼ˆä¸Šã€ä¸‹ã€å·¦ã€å³ï¼‰å››ä¸ªç®­å¤´é”®é€‰æ‹©ä¸‹ä¸€ä¸ªè¦ç©¿çš„ç å­ï¼›â€œEscâ€é”®æ¯æŒ‰ä¸€æ¬¡å›é€€ä¸€ä¸ªç å­ï¼Œç›´åˆ°å›åˆ°åˆå§‹é‚£ä¸ªç å­ï¼›è€Œâ€œEnteré”®(å›è½¦é”®)â€åˆ™å›é€€åˆ°åˆå§‹é‚£ä¸ªç å­ï¼Œé‡æ–°å¼€å§‹ï¼›ä¸€å…³ç»“æŸåï¼Œå¼€å§‹ä¸‹ä¸€å…³ï¼Œä¹Ÿè¦æŒ‰å›è½¦é”®ã€‚
 
 Deqi Li@UoA, 2014-2015
