@@ -4,6 +4,10 @@ Now it is under debugging and can only parse the Putti testing site: http://test
 
 To run the code, we need to put JsonParse.php, jstree.min.js and style.min.css in the same folder.
 
+I tested the PHP code under Ubuntu 14.10, Apache2.4 and Firefox (recent version).
+
 New version is coming soon.
 
 Deqi Li, Feb 2, 2015
+adam_ldq75@hotmail.com
+
