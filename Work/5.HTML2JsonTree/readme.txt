@@ -3,7 +3,7 @@ To run the code, we need to put HTML2JsonTree.php, jstree.min.js and style.min.c
 
 This code has been tested under Ubuntu 14.10.
 
-Note: This code can correct syntax error for some, but not all, unrestricted HTML of some websites. So we 
-cannot give the Json Tree views for some websites with serious syntax erros.
+Note: This code can correct syntax error for some, but not all, non-stricted HTML of some websites. So we 
+cannot give the Json Tree views for some websites with serious syntax errors.
 
 Deqi Li, Mar 1, 2015
